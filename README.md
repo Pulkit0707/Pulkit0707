@@ -57,3 +57,9 @@ I'm a passionate **Full Stack Web Developer** and **Problem Solver** from India 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for stopping by! ⭐ Feel free to check out my repositories and contributions!
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
